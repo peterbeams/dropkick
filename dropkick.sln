@@ -69,8 +69,5 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{05E8B70A-3A2A-48AD-AF36-EE1A0D0A914B} = {31E06AD9-664D-44A5-984E-7493FBE24D29}
-	EndGlobalSection
-	GlobalSection(NDepend) = preSolution
-		Project = ".\dropkick.ndproj"
-	EndGlobalSection
+	EndGlobalSection	
 EndGlobal
