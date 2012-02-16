@@ -89,9 +89,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\SolutionVersion.cs">
-      <Link>Properties\SolutionVersion.cs</Link>
-    </Compile>
     <Compile Include="ApplicationPoolTestExtensions.cs" />
     <Compile Include="Configuration\Dsl\CheckingPlanBuildingLogic.cs" />
     <Compile Include="Configuration\Dsl\CopyFilesProtoWithSettings.cs" />

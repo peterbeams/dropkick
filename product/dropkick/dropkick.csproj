@@ -86,9 +86,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\SolutionVersion.cs">
-      <Link>Properties\SolutionVersion.cs</Link>
-    </Compile>
     <Compile Include="Configuration\DeploymentPlanBuilder.cs" />
     <Compile Include="Configuration\DropkickConfiguration.cs" />
     <Compile Include="Configuration\Dsl\CommandLine\CommandLineOptions.cs" />
